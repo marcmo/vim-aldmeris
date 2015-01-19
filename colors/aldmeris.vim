@@ -188,7 +188,7 @@ elseif &t_Co == 256
     let s:aluminium3  = "250"
     let s:aluminium4  = "102"
     let s:aluminium5  = "240"
-    let s:aluminium6  = "236"
+    let s:aluminium6  = "235"
     let s:black       = "16"
 else
     let s:butter1     = "LightYellow"
